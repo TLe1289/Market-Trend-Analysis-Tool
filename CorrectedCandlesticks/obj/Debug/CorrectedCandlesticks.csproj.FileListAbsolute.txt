@@ -1,0 +1,40 @@
+C:\Users\tle72\Downloads\Dev\CorrectedCandlesticks\CorrectedCandlesticks\bin\Debug\CorrectedCandlesticks.exe.config
+C:\Users\tle72\Downloads\Dev\CorrectedCandlesticks\CorrectedCandlesticks\bin\Debug\CorrectedCandlesticks.exe
+C:\Users\tle72\Downloads\Dev\CorrectedCandlesticks\CorrectedCandlesticks\bin\Debug\CorrectedCandlesticks.pdb
+C:\Users\tle72\Downloads\Dev\CorrectedCandlesticks\CorrectedCandlesticks\obj\Debug\CorrectedCandlesticks.csproj.AssemblyReference.cache
+C:\Users\tle72\Downloads\Dev\CorrectedCandlesticks\CorrectedCandlesticks\obj\Debug\CorrectedCandlesticks.Form_Candlesticks.resources
+C:\Users\tle72\Downloads\Dev\CorrectedCandlesticks\CorrectedCandlesticks\obj\Debug\CorrectedCandlesticks.Properties.Resources.resources
+C:\Users\tle72\Downloads\Dev\CorrectedCandlesticks\CorrectedCandlesticks\obj\Debug\CorrectedCandlesticks.csproj.GenerateResource.cache
+C:\Users\tle72\Downloads\Dev\CorrectedCandlesticks\CorrectedCandlesticks\obj\Debug\CorrectedCandlesticks.csproj.CoreCompileInputs.cache
+C:\Users\tle72\Downloads\Dev\CorrectedCandlesticks\CorrectedCandlesticks\obj\Debug\CorrectedCandlesticks.exe
+C:\Users\tle72\Downloads\Dev\CorrectedCandlesticks\CorrectedCandlesticks\obj\Debug\CorrectedCandlesticks.pdb
+C:\Users\tle72\Downloads\Dev\CorrectedCandlesticks - Copy\CorrectedCandlesticks\bin\Debug\CorrectedCandlesticks.exe.config
+C:\Users\tle72\Downloads\Dev\CorrectedCandlesticks - Copy\CorrectedCandlesticks\bin\Debug\CorrectedCandlesticks.exe
+C:\Users\tle72\Downloads\Dev\CorrectedCandlesticks - Copy\CorrectedCandlesticks\bin\Debug\CorrectedCandlesticks.pdb
+C:\Users\tle72\Downloads\Dev\CorrectedCandlesticks - Copy\CorrectedCandlesticks\obj\Debug\CorrectedCandlesticks.csproj.AssemblyReference.cache
+C:\Users\tle72\Downloads\Dev\CorrectedCandlesticks - Copy\CorrectedCandlesticks\obj\Debug\CorrectedCandlesticks.Form_Candlesticks.resources
+C:\Users\tle72\Downloads\Dev\CorrectedCandlesticks - Copy\CorrectedCandlesticks\obj\Debug\CorrectedCandlesticks.Properties.Resources.resources
+C:\Users\tle72\Downloads\Dev\CorrectedCandlesticks - Copy\CorrectedCandlesticks\obj\Debug\CorrectedCandlesticks.csproj.GenerateResource.cache
+C:\Users\tle72\Downloads\Dev\CorrectedCandlesticks - Copy\CorrectedCandlesticks\obj\Debug\CorrectedCandlesticks.csproj.CoreCompileInputs.cache
+C:\Users\tle72\Downloads\Dev\CorrectedCandlesticks - Copy\CorrectedCandlesticks\obj\Debug\CorrectedCandlesticks.exe
+C:\Users\tle72\Downloads\Dev\CorrectedCandlesticks - Copy\CorrectedCandlesticks\obj\Debug\CorrectedCandlesticks.pdb
+C:\Users\tle72\Downloads\Dev\SmartCandlesticks\CorrectedCandlesticks\bin\Debug\CorrectedCandlesticks.exe.config
+C:\Users\tle72\Downloads\Dev\SmartCandlesticks\CorrectedCandlesticks\bin\Debug\CorrectedCandlesticks.exe
+C:\Users\tle72\Downloads\Dev\SmartCandlesticks\CorrectedCandlesticks\bin\Debug\CorrectedCandlesticks.pdb
+C:\Users\tle72\Downloads\Dev\SmartCandlesticks\CorrectedCandlesticks\obj\Debug\CorrectedCandlesticks.csproj.AssemblyReference.cache
+C:\Users\tle72\Downloads\Dev\SmartCandlesticks\CorrectedCandlesticks\obj\Debug\CorrectedCandlesticks.Form_Candlesticks.resources
+C:\Users\tle72\Downloads\Dev\SmartCandlesticks\CorrectedCandlesticks\obj\Debug\CorrectedCandlesticks.Properties.Resources.resources
+C:\Users\tle72\Downloads\Dev\SmartCandlesticks\CorrectedCandlesticks\obj\Debug\CorrectedCandlesticks.csproj.GenerateResource.cache
+C:\Users\tle72\Downloads\Dev\SmartCandlesticks\CorrectedCandlesticks\obj\Debug\CorrectedCandlesticks.csproj.CoreCompileInputs.cache
+C:\Users\tle72\Downloads\Dev\SmartCandlesticks\CorrectedCandlesticks\obj\Debug\CorrectedCandlesticks.exe
+C:\Users\tle72\Downloads\Dev\SmartCandlesticks\CorrectedCandlesticks\obj\Debug\CorrectedCandlesticks.pdb
+C:\Users\tle72\Downloads\Dev\SmartCandlesticks - Backup\CorrectedCandlesticks\bin\Debug\CorrectedCandlesticks.exe.config
+C:\Users\tle72\Downloads\Dev\SmartCandlesticks - Backup\CorrectedCandlesticks\bin\Debug\CorrectedCandlesticks.exe
+C:\Users\tle72\Downloads\Dev\SmartCandlesticks - Backup\CorrectedCandlesticks\bin\Debug\CorrectedCandlesticks.pdb
+C:\Users\tle72\Downloads\Dev\SmartCandlesticks - Backup\CorrectedCandlesticks\obj\Debug\CorrectedCandlesticks.csproj.AssemblyReference.cache
+C:\Users\tle72\Downloads\Dev\SmartCandlesticks - Backup\CorrectedCandlesticks\obj\Debug\CorrectedCandlesticks.Form_Candlesticks.resources
+C:\Users\tle72\Downloads\Dev\SmartCandlesticks - Backup\CorrectedCandlesticks\obj\Debug\CorrectedCandlesticks.Properties.Resources.resources
+C:\Users\tle72\Downloads\Dev\SmartCandlesticks - Backup\CorrectedCandlesticks\obj\Debug\CorrectedCandlesticks.csproj.GenerateResource.cache
+C:\Users\tle72\Downloads\Dev\SmartCandlesticks - Backup\CorrectedCandlesticks\obj\Debug\CorrectedCandlesticks.csproj.CoreCompileInputs.cache
+C:\Users\tle72\Downloads\Dev\SmartCandlesticks - Backup\CorrectedCandlesticks\obj\Debug\CorrectedCandlesticks.exe
+C:\Users\tle72\Downloads\Dev\SmartCandlesticks - Backup\CorrectedCandlesticks\obj\Debug\CorrectedCandlesticks.pdb
